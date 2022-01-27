@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "axios": "^0.21.2",
+    "expo": "^44.0.5",
     "filesize": "^6.1.0",
     "history": "^4.10.1",
     "polished": "^3.5.2",
