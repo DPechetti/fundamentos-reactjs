@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "^0.21.2",
+    "axios": "^1.6.0",
     "expo": "^44.0.5",
     "filesize": "^6.1.0",
     "history": "^4.10.1",
